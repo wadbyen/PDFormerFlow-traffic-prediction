@@ -52,12 +52,14 @@ Using publicly available datasets  to validate the proposed prediction method, s
 ## Installation
 
 python=3.7.9
-
 torch==1.7.0
-
 tsai==0.3.0
-
 numpy==1.19.2
+
+# Training
+for example for Abilene dataset 
+
+      python SPtransf-train.py --model PDFormerFlow --dataset abilene --epochs 100 --batch_size 16 --pre_len 1 --rounds 10
 
 # References
 
