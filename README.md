@@ -66,5 +66,4 @@ numpy==1.19.2
   [2] Zhang, Y., et al. (2022). Bayesian Graph Convolutional Network for Traffic Prediction. IEEE Transactions on Intelligent Transportation Systems.
 
  [3] Li, Y., et al. (2021). Dynamic Graph Convolutional Network for Traffic Prediction. IEEE Transactions on Intelligent Transportation Systems.
- 
- https://github.com/FreeeBird/Flow-By-Flow-Prediction.
+ [4] Weiping Zheng, et al. (2022).  Flow-by-flow traffic matrix prediction methods: Achieving accurate, adaptable, low cost results, Computer Communications. https://github.com/FreeeBird/Flow-By-Flow-Prediction.
